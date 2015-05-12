@@ -3,9 +3,15 @@ html, body {
 }
 
 .container {
-  width: 980px;
+  width: 1200px;
   margin: 0 auto;
   max-width: 90%;
+}
+
+.header {
+  background: #888;
+  padding: 30px 0;
+  text-align: center;
 }
 
 #image-grid {
@@ -53,4 +59,19 @@ html, body {
   -webkit-column-count: 1;
   column-count:         1;
   }
+}
+
+#image-grid {
+  display: none;
+}
+
+#grid img {
+  float: left;
+  margin: 0;
+  opacity: 0;
+  -webkit-transition: opacity 0.8s ease;
+  -moz-transition: opacity 0.8s ease;
+  -o-transition: opacity 0.8s ease;
+  -ms-transition: opacity 0.8s ease;
+  transition: opacity 0.8s ease;
 }
