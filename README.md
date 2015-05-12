@@ -7,9 +7,9 @@ The following script renders a responsive image grid from a group of images that
 
 ### Directory Structure
 
-Place all of your full size images into the following directory: /img/full.
+Place all of your full size images into the following directory: /img/full
 
-Place all of your smaller size images into the following directory: /img/thumb.
+Place all of your smaller size images into the following directory: /img/thumbs
 
 Please ensure that there are no spaces or special characters in your image file names, as there is no URL encoding in this version of the script.
 
