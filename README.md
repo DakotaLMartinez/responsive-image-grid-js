@@ -13,7 +13,7 @@ Place all of your smaller size images into the following directory: /img/thumbs
 
 Please ensure that there are no spaces or special characters in your image file names, as there is no URL encoding in this version of the script.
 
-For this version of the script to work properly, the small version of each image must have the same file name and extension as the large version of the image.  (This will work easily with a batch resize out of Photoshop, or you can use the batch resize automator script included in this repository.  Simply drag the output into the thumbs directory and the script will work properly.)
+For this version of the script to work properly, the small version of each image must have the same file name and extension as the large version of the image. 
 
 ### Customize the script
 
